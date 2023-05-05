@@ -9,7 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-* Added RGB backlight functionality using 6028R SMD LED; 
+* Added RGB underglow functionality using WS2812 SMD LED;
+* Added RGB backlight functionality using 6028R SMD LED;
 * Added `marbastlib` footprints as submodule;
 * Added `kicad-library-WeAct-RP2040-Pico` footprints as submodule;
 * Added kicad project files;
