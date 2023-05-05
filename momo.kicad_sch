@@ -2046,7 +2046,7 @@
     (property "Value" "D" (id 1) (at 39.116 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 37.084 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 37.084 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 37.084 59.436 0)
@@ -2065,7 +2065,7 @@
     (property "Value" "D" (id 1) (at 104.648 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 102.616 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 102.616 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 102.616 111.252 0)
@@ -2099,7 +2099,7 @@
     (property "Value" "D" (id 1) (at 130.556 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 128.524 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 128.524 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 128.524 86.106 0)
@@ -2118,7 +2118,7 @@
     (property "Value" "D" (id 1) (at 156.464 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 154.432 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 154.432 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 154.432 86.106 0)
@@ -2167,7 +2167,7 @@
     (property "Value" "D" (id 1) (at 39.116 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 37.084 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 37.084 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 37.084 34.29 0)
@@ -2186,7 +2186,7 @@
     (property "Value" "D" (id 1) (at 116.84 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 114.808 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 114.808 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 114.808 59.436 0)
@@ -2205,7 +2205,7 @@
     (property "Value" "D" (id 1) (at 181.61 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 179.578 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 179.578 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.578 34.29 0)
@@ -2269,7 +2269,7 @@
     (property "Value" "D" (id 1) (at 143.51 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 141.478 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 141.478 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 141.478 86.106 0)
@@ -2303,7 +2303,7 @@
     (property "Value" "D" (id 1) (at 39.878 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 37.846 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 37.846 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 37.846 111.252 0)
@@ -2337,7 +2337,7 @@
     (property "Value" "D" (id 1) (at 39.878 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 37.846 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 37.846 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 37.846 86.106 0)
@@ -2446,7 +2446,7 @@
     (property "Value" "D" (id 1) (at 52.07 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 50.038 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 50.038 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 50.038 59.436 0)
@@ -2465,7 +2465,7 @@
     (property "Value" "D" (id 1) (at 129.794 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 127.762 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 127.762 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 127.762 34.29 0)
@@ -2499,7 +2499,7 @@
     (property "Value" "D" (id 1) (at 104.648 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 102.616 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 102.616 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 102.616 86.106 0)
@@ -2533,7 +2533,7 @@
     (property "Value" "D" (id 1) (at 168.656 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 166.624 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 166.624 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 166.624 59.436 0)
@@ -2627,7 +2627,7 @@
     (property "Value" "D" (id 1) (at 142.748 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 140.716 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 140.716 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.716 34.29 0)
@@ -2646,7 +2646,7 @@
     (property "Value" "D" (id 1) (at 117.602 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 115.57 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 115.57 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 115.57 86.106 0)
@@ -2680,7 +2680,7 @@
     (property "Value" "D" (id 1) (at 116.84 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 114.808 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 114.808 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 114.808 34.29 0)
@@ -2699,7 +2699,7 @@
     (property "Value" "D" (id 1) (at 130.556 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 128.524 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 128.524 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 128.524 111.252 0)
@@ -2718,7 +2718,7 @@
     (property "Value" "D" (id 1) (at 52.832 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 50.8 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 50.8 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 50.8 111.252 0)
@@ -2752,7 +2752,7 @@
     (property "Value" "D" (id 1) (at 182.372 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 180.34 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 180.34 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 180.34 86.106 0)
@@ -2786,7 +2786,7 @@
     (property "Value" "D" (id 1) (at 78.74 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 76.708 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 76.708 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.708 86.106 0)
@@ -2850,7 +2850,7 @@
     (property "Value" "D" (id 1) (at 65.024 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 62.992 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 62.992 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 62.992 59.436 0)
@@ -2899,7 +2899,7 @@
     (property "Value" "D" (id 1) (at 182.372 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 180.34 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 180.34 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 180.34 111.252 0)
@@ -2933,7 +2933,7 @@
     (property "Value" "D" (id 1) (at 91.694 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 89.662 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 89.662 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 89.662 111.252 0)
@@ -2952,7 +2952,7 @@
     (property "Value" "D" (id 1) (at 117.602 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 115.57 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 115.57 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 115.57 111.252 0)
@@ -3001,7 +3001,7 @@
     (property "Value" "D" (id 1) (at 168.656 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 166.624 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 166.624 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 166.624 34.29 0)
@@ -3020,7 +3020,7 @@
     (property "Value" "D" (id 1) (at 181.61 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 179.578 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 179.578 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 179.578 59.436 0)
@@ -3039,7 +3039,7 @@
     (property "Value" "D" (id 1) (at 65.786 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 63.754 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 63.754 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 63.754 111.252 0)
@@ -3058,7 +3058,7 @@
     (property "Value" "D" (id 1) (at 169.418 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 167.386 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 167.386 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 167.386 111.252 0)
@@ -3077,7 +3077,7 @@
     (property "Value" "D" (id 1) (at 65.024 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 62.992 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 62.992 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 62.992 34.29 0)
@@ -3126,7 +3126,7 @@
     (property "Value" "D" (id 1) (at 65.786 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 63.754 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 63.754 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 63.754 86.106 0)
@@ -3145,7 +3145,7 @@
     (property "Value" "D" (id 1) (at 103.886 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 101.854 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 101.854 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.854 59.436 0)
@@ -3164,7 +3164,7 @@
     (property "Value" "D" (id 1) (at 90.932 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 88.9 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 88.9 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 34.29 0)
@@ -3228,7 +3228,7 @@
     (property "Value" "D" (id 1) (at 77.978 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 75.946 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 75.946 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 75.946 59.436 0)
@@ -3247,7 +3247,7 @@
     (property "Value" "D" (id 1) (at 155.702 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 153.67 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 153.67 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 153.67 34.29 0)
@@ -3266,7 +3266,7 @@
     (property "Value" "D" (id 1) (at 52.832 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 50.8 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 50.8 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 50.8 86.106 0)
@@ -3285,7 +3285,7 @@
     (property "Value" "D" (id 1) (at 52.07 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 50.038 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 50.038 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 50.038 34.29 0)
@@ -3304,7 +3304,7 @@
     (property "Value" "D" (id 1) (at 156.464 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 154.432 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 154.432 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 154.432 111.252 0)
@@ -3338,7 +3338,7 @@
     (property "Value" "D" (id 1) (at 78.74 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 76.708 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 76.708 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.708 111.252 0)
@@ -3372,7 +3372,7 @@
     (property "Value" "D" (id 1) (at 142.748 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 140.716 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 140.716 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.716 59.436 0)
@@ -3391,7 +3391,7 @@
     (property "Value" "D" (id 1) (at 143.51 112.5219 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 141.478 111.252 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 141.478 111.252 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 141.478 111.252 0)
@@ -3440,7 +3440,7 @@
     (property "Value" "D" (id 1) (at 155.702 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 153.67 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 153.67 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 153.67 59.436 0)
@@ -3474,7 +3474,7 @@
     (property "Value" "D" (id 1) (at 169.418 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 167.386 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 167.386 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 167.386 86.106 0)
@@ -3508,7 +3508,7 @@
     (property "Value" "D" (id 1) (at 77.978 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 75.946 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 75.946 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 75.946 34.29 0)
@@ -3572,7 +3572,7 @@
     (property "Value" "D" (id 1) (at 91.694 87.3759 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 89.662 86.106 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 89.662 86.106 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 89.662 86.106 0)
@@ -3591,7 +3591,7 @@
     (property "Value" "D" (id 1) (at 129.794 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 127.762 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 127.762 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 127.762 59.436 0)
@@ -3610,7 +3610,7 @@
     (property "Value" "D" (id 1) (at 90.932 60.7059 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 88.9 59.436 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 88.9 59.436 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 59.436 0)
@@ -3629,7 +3629,7 @@
     (property "Value" "D" (id 1) (at 103.886 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 101.854 34.29 0)
+    (property "Footprint" "keyboard_parts:D_SOD123_axial" (id 2) (at 101.854 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.854 34.29 0)
@@ -3696,154 +3696,644 @@
     (pin "9" (uuid acadb97d-b3c3-42aa-b3c3-9ea25a3a43a7))
   )
 
+  (sheet (at 311.15 114.3) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9d24d119-5b7b-4dd6-a77e-8432ed719570)
+    (property "Sheet name" "backlight" (id 0) (at 311.15 113.5884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "backlight.kicad_sch" (id 1) (at 311.15 118.6946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570" (page "2"))
   )
 
   (symbol_instances
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/82cc3297-fd3d-4a13-a0b5-fb86cfe515c8"
+      (reference "#PWR01") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/8c884d29-07b4-40c6-af7a-eccf55373e87"
+      (reference "#PWR02") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/7a834476-dc55-459a-a751-e09e51c33b80"
+      (reference "#PWR03") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/68b13f8d-1d8d-4419-86f7-17f91565505c"
+      (reference "#PWR04") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/f1e822c5-d349-407c-a25b-dbd449902fb4"
+      (reference "#PWR05") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/ba5203e7-6399-4511-a00c-d73e786d0424"
+      (reference "#PWR06") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9ee65652-a8b4-42c7-b249-b26a4ac57f78"
+      (reference "#PWR07") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/f3f42b80-c994-4eda-846f-3b73a40123a2"
+      (reference "#PWR08") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c5bbf2a4-5db6-4e74-acab-09c085018d42"
+      (reference "#PWR09") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/f2d5e60f-9c03-4b2f-9ab7-65525fa8a078"
+      (reference "#PWR010") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b4128f80-0aea-4f14-8887-35b635235169"
+      (reference "#PWR011") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/19692b0b-49f0-4c27-af47-967a7294726d"
+      (reference "#PWR012") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/314f5e22-2a39-41d1-9db5-76460ec3271a"
+      (reference "#PWR013") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/df108307-4244-4e8d-ac7d-8f7fbb7d47ba"
+      (reference "#PWR014") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9f149359-0650-409b-b1d5-d4896f861eed"
+      (reference "#PWR015") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/01dafdec-9840-4d15-87ac-c329a9f48c4f"
+      (reference "#PWR016") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/34c48d9d-5334-4f7a-af01-340b2b688215"
+      (reference "#PWR017") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/5feb1597-543e-489b-826e-ec724d8cc3df"
+      (reference "#PWR018") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/6dd90cf0-a9a7-48eb-a8b5-318bc12d4281"
+      (reference "#PWR019") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b673b139-b1de-4d7c-bf82-75e7f69366ef"
+      (reference "#PWR020") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/e34b96ea-1a42-425c-84d9-2b704c1b4b04"
+      (reference "#PWR021") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c2e419f4-8217-42f3-886a-8bd93764f214"
+      (reference "#PWR022") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/ca9bce46-4e8b-4f5c-8cfe-734defd19bf0"
+      (reference "#PWR023") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/ad13c74c-35b8-4ec6-8302-c46e2748b2e3"
+      (reference "#PWR024") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a2cfcb86-4984-4db9-8efa-70eeaedbc82c"
+      (reference "#PWR025") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/480b53b1-28a7-4b5d-93f8-4767d735429c"
+      (reference "#PWR026") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/539d1a93-56ac-40a8-911c-4a4450cbe548"
+      (reference "#PWR027") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/72bc9b4f-2585-4aa6-8a06-48ce93e92c53"
+      (reference "#PWR028") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/e9533c6d-4ad5-429b-8a39-1ee1c0c7e616"
+      (reference "#PWR029") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/3003ec1d-0031-42da-bcd1-8f08852302ed"
+      (reference "#PWR030") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/62a51bda-8d28-4971-8d69-c7beadfcd906"
+      (reference "#PWR031") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/0ca78241-79ba-4b3a-90fc-2a4c8f88168b"
+      (reference "#PWR032") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c284aeed-bd41-4b7d-9259-6af18bfd0964"
+      (reference "#PWR033") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/66eb003c-6fbf-4f53-82b8-08fb08342c8b"
+      (reference "#PWR034") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/7432c9ae-2198-4093-9569-9d16da4cb3e6"
+      (reference "#PWR035") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/0bf5cda1-05f5-41db-b587-43505242bef5"
+      (reference "#PWR036") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/6d961de2-008b-40aa-b25f-9adb87aa2565"
+      (reference "#PWR037") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9e3bf943-fe54-4d5e-bef7-158cabad55e0"
+      (reference "#PWR038") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/ae1554d4-49c0-49d5-832a-88b900cdbcae"
+      (reference "#PWR039") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/e3ae9fef-b9c3-4ec4-ac04-52342bdd66de"
+      (reference "#PWR040") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/adc4790d-a226-4886-9728-3154aaf0b311"
+      (reference "#PWR041") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/09672938-344e-4fa9-8ebf-efc27f81b6c3"
+      (reference "#PWR042") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9aa98954-56b7-4592-b78c-8f0f71348907"
+      (reference "#PWR043") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/e1ad2c56-1e76-45f3-8c58-814bda76e914"
+      (reference "#PWR044") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/978089f0-772a-4794-8b1f-564a8f4579a0"
+      (reference "#PWR045") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a83c8b85-802d-443a-a504-802e393e6eb9"
+      (reference "#PWR046") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/6c003aef-596e-4b51-afe4-936a815221d1"
+      (reference "#PWR047") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/3868f7b0-87c8-4601-8642-6f18baad57ec"
+      (reference "#PWR048") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/129c5146-6404-4973-a004-9e17eb972b15"
+      (reference "#PWR049") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/e01b494d-9df5-4cb2-a802-6601a6296b9d"
+      (reference "#PWR050") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/d866fffd-8403-46bd-b6f3-c742fcf81aa6"
+      (reference "#PWR051") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/e3db16de-7731-415f-9c2e-fbd60f08966f"
+      (reference "#PWR052") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b867f5bc-b62c-4ef5-a787-524e2068ccba"
+      (reference "#PWR053") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/f8fe05fa-2ad9-455e-9eeb-6d43b70f2356"
+      (reference "#PWR054") (unit 1) (value "GND") (footprint "")
+    )
     (path "/20f0ef94-b4c4-4b36-98fb-027bc3e36c3a"
-      (reference "D1") (unit 1) (value "D") (footprint "")
+      (reference "D1") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/0592acf3-520a-46fd-be00-ed7ea67f4e7b"
-      (reference "D2") (unit 1) (value "D") (footprint "")
+      (reference "D2") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/4af06735-97be-45d4-9eda-c5f737a8bc1c"
-      (reference "D3") (unit 1) (value "D") (footprint "")
+      (reference "D3") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/40c01ec8-271a-404a-b725-8d41f996ece1"
-      (reference "D4") (unit 1) (value "D") (footprint "")
+      (reference "D4") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/ce8db086-0cb9-4914-b154-724decdb2e1e"
-      (reference "D5") (unit 1) (value "D") (footprint "")
+      (reference "D5") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/5c81e556-a128-435b-9381-82ed2b1582ae"
-      (reference "D6") (unit 1) (value "D") (footprint "")
+      (reference "D6") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/cc146227-ca44-427c-8c6f-e88ae2af1ae5"
-      (reference "D7") (unit 1) (value "D") (footprint "")
+      (reference "D7") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/74d920c4-a1f6-4288-9445-2819cb6bd420"
-      (reference "D8") (unit 1) (value "D") (footprint "")
+      (reference "D8") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/adb5b061-f8de-4634-b449-3e4c36a1eded"
-      (reference "D9") (unit 1) (value "D") (footprint "")
+      (reference "D9") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/8a923bc8-7c35-468c-807c-01a728f08f83"
-      (reference "D10") (unit 1) (value "D") (footprint "")
+      (reference "D10") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/b95a20c8-8e6a-4fca-b590-6cfbfd1358d4"
-      (reference "D11") (unit 1) (value "D") (footprint "")
+      (reference "D11") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/a9f54fcd-852b-4c0a-8e90-e797c4c268f4"
-      (reference "D12") (unit 1) (value "D") (footprint "")
+      (reference "D12") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/e7ea7bcf-71f1-4952-b1c0-5d6d5c8d93c6"
-      (reference "D13") (unit 1) (value "D") (footprint "")
+      (reference "D13") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/c6cb3b3f-8e51-452b-aa40-f9ad91ea5588"
-      (reference "D14") (unit 1) (value "D") (footprint "")
+      (reference "D14") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/825a365e-fe87-4cc8-acbc-8832a65b2247"
-      (reference "D15") (unit 1) (value "D") (footprint "")
+      (reference "D15") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/da0113f1-926e-4bf7-9250-c89ad0eb4dac"
-      (reference "D16") (unit 1) (value "D") (footprint "")
+      (reference "D16") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/c06cf3f9-bf55-4314-9970-b690195440b2"
-      (reference "D17") (unit 1) (value "D") (footprint "")
+      (reference "D17") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/f534907d-e25b-4f15-a665-13292076b021"
-      (reference "D18") (unit 1) (value "D") (footprint "")
+      (reference "D18") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/f3491911-f4d0-40be-b6c1-965e75382d1f"
-      (reference "D19") (unit 1) (value "D") (footprint "")
+      (reference "D19") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/9b6c3ba5-8736-4196-a3e5-076479f50517"
-      (reference "D20") (unit 1) (value "D") (footprint "")
+      (reference "D20") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/f7b83cf5-2000-466a-b164-710fa8214f94"
-      (reference "D21") (unit 1) (value "D") (footprint "")
+      (reference "D21") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/bc300a3f-8ff0-41a9-b9e0-4be48bc986fe"
-      (reference "D22") (unit 1) (value "D") (footprint "")
+      (reference "D22") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/5ed6f519-4a1d-4726-a0bb-04de8bbb78a8"
-      (reference "D23") (unit 1) (value "D") (footprint "")
+      (reference "D23") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/0e6b0239-0c40-4ce1-9a68-748ecdfb3e91"
-      (reference "D24") (unit 1) (value "D") (footprint "")
+      (reference "D24") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/725a398a-1f11-4163-a148-3612bbe7c0fa"
-      (reference "D25") (unit 1) (value "D") (footprint "")
+      (reference "D25") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/2366cfeb-1af6-4c02-98d8-649c53842457"
-      (reference "D26") (unit 1) (value "D") (footprint "")
+      (reference "D26") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/71a4d73c-d97f-49b7-8d86-546f53f86209"
-      (reference "D27") (unit 1) (value "D") (footprint "")
+      (reference "D27") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/9c60050e-e47a-4d43-bc07-fe1e7b21be8c"
-      (reference "D28") (unit 1) (value "D") (footprint "")
+      (reference "D28") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/5cee89e4-28e3-413b-acc6-4c7ce49633d3"
-      (reference "D29") (unit 1) (value "D") (footprint "")
+      (reference "D29") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/f3bdc784-de96-44e5-a429-208574969fb9"
-      (reference "D30") (unit 1) (value "D") (footprint "")
+      (reference "D30") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/17efe11a-70c9-4777-bfbe-1b49aa142074"
-      (reference "D31") (unit 1) (value "D") (footprint "")
+      (reference "D31") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/72d0ed9f-38cb-4a86-a33e-11f01a1b84f5"
-      (reference "D32") (unit 1) (value "D") (footprint "")
+      (reference "D32") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/6f8c62d4-5e59-41d7-9e39-c410ffaeffef"
-      (reference "D33") (unit 1) (value "D") (footprint "")
+      (reference "D33") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/de6495e2-f25e-4978-b314-2aefa5093790"
-      (reference "D34") (unit 1) (value "D") (footprint "")
+      (reference "D34") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/36c31719-f2d3-46f9-a869-2cb131755ef6"
-      (reference "D35") (unit 1) (value "D") (footprint "")
+      (reference "D35") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/e09a9504-05d0-4236-93f0-9daba410a621"
-      (reference "D36") (unit 1) (value "D") (footprint "")
+      (reference "D36") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/c853d381-f866-4223-8e27-4eea5a3768bf"
-      (reference "D37") (unit 1) (value "D") (footprint "")
+      (reference "D37") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/e3d5674f-9cc5-4769-bbd6-6042f0d8ad21"
-      (reference "D38") (unit 1) (value "D") (footprint "")
+      (reference "D38") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/1b5de420-8837-459c-b025-baf4234aef57"
-      (reference "D39") (unit 1) (value "D") (footprint "")
+      (reference "D39") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/d0fb6e68-7b8f-459b-8db2-44271a880a20"
-      (reference "D40") (unit 1) (value "D") (footprint "")
+      (reference "D40") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/a376eb6b-879b-4608-9799-07d04e0bd815"
-      (reference "D41") (unit 1) (value "D") (footprint "")
+      (reference "D41") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/61b41ba4-590b-40e3-acc9-cb18450e6f2c"
-      (reference "D42") (unit 1) (value "D") (footprint "")
+      (reference "D42") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/e6121d95-5fea-4b40-8caa-d2dffd444063"
-      (reference "D43") (unit 1) (value "D") (footprint "")
+      (reference "D43") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/aac6ff54-d58a-4bd6-bb4f-b1f81fdac9f2"
-      (reference "D44") (unit 1) (value "D") (footprint "")
+      (reference "D44") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/23873cd1-9326-4f5c-a8d5-3e18156b7617"
-      (reference "D45") (unit 1) (value "D") (footprint "")
+      (reference "D45") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/a3b6f951-ea98-4a7b-ab98-98ae587a3762"
-      (reference "D46") (unit 1) (value "D") (footprint "")
+      (reference "D46") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/7db16b52-5515-4b91-9720-1c5208ba0022"
-      (reference "D47") (unit 1) (value "D") (footprint "")
+      (reference "D47") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
     )
     (path "/97826ca4-35ba-479a-81b8-dba2a476d35d"
-      (reference "D48") (unit 1) (value "D") (footprint "")
+      (reference "D48") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/dd3f1b39-f22c-4b69-9ea9-51559b2d0569"
+      (reference "LED1") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9e6d5086-d208-452f-bbc5-6c5f43e9c394"
+      (reference "LED2") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9b8fa379-1e69-4fee-ad1b-f56e518c8c7d"
+      (reference "LED3") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c7b8efdb-430f-4e57-a92d-7e9b8641316b"
+      (reference "LED4") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/81557dff-6f5d-4d57-81fd-e7c0bd979b29"
+      (reference "LED5") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/26a47821-abe6-48ca-883b-1a1447c5fc52"
+      (reference "LED6") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/32430fcb-1e90-4961-a07e-69eac5daa9c8"
+      (reference "LED7") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/5debe1e3-13a0-41a8-8d11-2a8c2d4b983e"
+      (reference "LED8") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a15f481f-d906-4a26-9658-69a5e9e6a1d2"
+      (reference "LED9") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9c8988bc-88b0-459b-adc1-d55241e2bbdf"
+      (reference "LED10") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/d5d57f60-d559-4585-b358-7994f50c93a5"
+      (reference "LED11") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/fad11c58-c4e8-4a2d-be5d-3476efe1b111"
+      (reference "LED12") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/f8eaa707-6d86-4a9c-84b8-331b3768e866"
+      (reference "LED13") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/080963a8-c0e7-48f6-8b16-af24df5a6ae9"
+      (reference "LED14") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/7a1ba3f2-2d23-415c-93fa-c0f17de05f01"
+      (reference "LED15") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/dd425a9a-f3c6-4a35-8396-75c88a514496"
+      (reference "LED16") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b9bdf4c8-d01b-4e21-a637-a4d58b081710"
+      (reference "LED17") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/6ab87e3d-5632-4a32-b96c-4395adbb4818"
+      (reference "LED18") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/0f66915a-84fe-42da-b0bb-d336d3e2ec77"
+      (reference "LED19") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/ef60acc3-4ee4-42b0-a846-1d28389740aa"
+      (reference "LED20") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/bf337d5d-9024-4dec-83cc-f1e26c4c3745"
+      (reference "LED21") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/08489a07-2458-4e24-9db1-6fbc1f56e348"
+      (reference "LED22") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/25a03dce-bbe0-479c-9df6-6d2d2fd13be0"
+      (reference "LED23") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9985cbb6-3df2-4c6d-b7fd-4d1e61540151"
+      (reference "LED24") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/61e1a82f-c4a5-4f5e-bf37-a11a4668641f"
+      (reference "LED25") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/ac69f143-1f58-4a96-a3e2-933b61a2782d"
+      (reference "LED26") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/09ed4e93-a2ff-4b54-ad5b-776643c687d3"
+      (reference "LED27") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/4c0cff23-84b0-4359-b201-b92902d2676b"
+      (reference "LED28") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/60849f6a-200e-4531-87b5-7fc7b1225458"
+      (reference "LED29") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/0a3bfab9-f464-4fe0-8009-df4d57d65681"
+      (reference "LED30") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/98f8b5d3-d5e5-4cb8-bb78-7db4816a9baf"
+      (reference "LED31") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/daaaf243-cbd2-4593-93e2-3204c749684d"
+      (reference "LED32") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b46f02ca-0972-43e9-a1c2-50dac7569e66"
+      (reference "LED33") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/accf5b23-f102-48f5-a9b7-ceb736036d12"
+      (reference "LED34") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/208552d2-02f1-461f-a263-a7d3ab35d153"
+      (reference "LED35") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b88dbbf8-a48f-443b-ae1f-bc0ae349002a"
+      (reference "LED36") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/768187c7-6093-4a49-93b4-900a57553bd4"
+      (reference "LED37") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a627e1a5-ccaf-43df-9a96-c582b9a27e99"
+      (reference "LED38") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a0f82346-06ea-4751-ac9f-52d901630538"
+      (reference "LED39") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b9041450-7d9d-4c68-97db-736db81dcf53"
+      (reference "LED40") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/d04ddb30-5c8f-4ee1-bce6-f8deef9d950e"
+      (reference "LED41") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/6d1b2734-6077-4190-ade0-4fe5b62315e2"
+      (reference "LED42") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/200e6fa2-e047-4991-9481-8737abb85463"
+      (reference "LED43") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/324973e7-2323-4586-8aaa-5eb715aaa71f"
+      (reference "LED44") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/d4784bbf-628c-446e-b980-cec5321d7d7f"
+      (reference "LED45") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a8256cbf-29dc-413b-9e35-711637387424"
+      (reference "LED46") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c3644850-c026-47eb-bb21-97990976c86a"
+      (reference "LED47") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/3dfe1cf7-d5fa-4e73-a4a5-8cf26bfe802e"
+      (reference "LED48") (unit 1) (value "6028R") (footprint "marbastlib-mx:LED_MX_6028R")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9900dff6-b782-4669-98b4-baa74e4a77ce"
+      (reference "Q1") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/9d488f0a-9320-4db4-98d9-59e2b73a6598"
+      (reference "Q2") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/71344979-fb3d-4d41-8eee-4961a4dffd42"
+      (reference "Q3") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/2f5f11b6-78d5-47a4-b2b5-fbaef48eee40"
+      (reference "R1") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/8f2baf83-b267-43b8-93c9-cfbd34c0e135"
+      (reference "R2") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/ff7dc346-57be-4f1a-97ba-358ee8116cda"
+      (reference "R3") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b7539de2-2a49-4935-aa0e-4f35e95629b6"
+      (reference "R4") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/1e1b7033-89a4-4495-883f-2f644d091834"
+      (reference "R5") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/49f1acd8-77b3-4c90-ae43-df5d069488b0"
+      (reference "R6") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/7c733d0a-b2d5-4875-94de-deb26bd00322"
+      (reference "R7") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/1e0d7df2-d722-4e2f-97e0-6ae95bc3add7"
+      (reference "R8") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/6250e69a-c881-4f7d-87fc-bd7435317687"
+      (reference "R9") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a2c6793b-7bf8-4e6c-81f2-97d21466aee3"
+      (reference "R10") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/0726e196-0c62-4317-a0f1-d3d0dde0905f"
+      (reference "R11") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/2c2eddfa-631f-4041-8765-4a9a0b25d053"
+      (reference "R12") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/88082866-7b4d-42a9-a5bd-96fdf397c082"
+      (reference "R13") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/d17e9b7e-5690-4f7e-b0b2-262d4e876a9d"
+      (reference "R14") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/84b7e68b-44dc-4022-8855-11c23a9ac975"
+      (reference "R15") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/57109489-5953-43ef-94c2-0625a2028c13"
+      (reference "R16") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/0ad953ad-9a32-4037-92eb-50a033b70f3b"
+      (reference "R17") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/3845fc9a-8320-46ba-b913-6bc5c1f4e295"
+      (reference "R18") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/fcf72a22-3a10-4378-b739-3fa7b83ebcc7"
+      (reference "R19") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/b570a40f-61fb-4f7a-9687-3f42552edb99"
+      (reference "R20") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/91b2523e-7de1-478a-b9a0-15a82a932971"
+      (reference "R21") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/dcf14ae5-bbbf-4338-be9b-187f0a6badb9"
+      (reference "R22") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/ca427a89-543d-451c-a681-1110f0c8d2b4"
+      (reference "R23") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/365ee149-6df7-44f2-8b30-beda40ee263d"
+      (reference "R24") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c5d361d0-1a34-4541-a8f0-0cec2ee8b03e"
+      (reference "R25") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/95978cd6-f1dc-4102-ad22-6b7882ad1c49"
+      (reference "R26") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a022282e-c071-4b93-b358-0401558e7b5b"
+      (reference "R27") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/248c69f7-c0aa-413b-8d1b-cb8b7cf13fbc"
+      (reference "R28") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/76c8f73c-7700-4a4f-9142-730758b96dff"
+      (reference "R29") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/617f83af-67df-4a85-9cca-5a147060b9cb"
+      (reference "R30") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/3182ce59-95e5-4396-8052-940cb90a8203"
+      (reference "R31") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c24cf257-9983-4a77-a3cb-0004eceef1af"
+      (reference "R32") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/2ee9c134-0a16-4844-b2bd-d33a7ebeac97"
+      (reference "R33") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/2b2d95ce-0e5a-4ce8-9692-e2fd44dbf8e6"
+      (reference "R34") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/6273f24e-beb5-470b-9fdd-205ba70a87d1"
+      (reference "R35") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c1bc38a7-5537-463e-b041-0f98789c0273"
+      (reference "R36") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/34ee269d-f801-4f26-80d6-3e13f78b3104"
+      (reference "R37") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/efa6909b-cb1c-4a04-88ae-52e452904492"
+      (reference "R38") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/d5603ece-6e3d-47d4-b313-1426fa5e82b1"
+      (reference "R39") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/591c1623-4cc4-45a5-b8c8-c59bccc85641"
+      (reference "R40") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/1ddad4ea-c7b6-41ef-bb74-b9ef61c8db6a"
+      (reference "R41") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/2ca534cf-b3ed-4832-b546-389e45a531ef"
+      (reference "R42") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/e7ec6867-bc96-4a48-ab7b-a3b34a3188a1"
+      (reference "R43") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/d5e32dbc-4c02-4f5f-9068-e2ea2f7ae550"
+      (reference "R44") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/1c4a99fc-1679-4c1a-bcd4-fc99c3661c77"
+      (reference "R45") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/c28705ac-b32b-47c5-bcf5-def22a97c002"
+      (reference "R46") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/140b8109-7bb3-4707-90bf-376588615481"
+      (reference "R47") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/f0d7a29f-61cb-46b9-a66e-8aa35ced13af"
+      (reference "R48") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/43ddb7d8-64e3-4ec1-9405-ef706ef242cf"
+      (reference "R49") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/f4b3a904-0922-48d0-a238-6883ad00f311"
+      (reference "R50") (unit 1) (value "10k") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/e0539b80-8192-4e8c-89e1-6870b2e6e973"
+      (reference "R51") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/7ecb1c4d-68be-43ae-8b51-6d8149dfbc85"
+      (reference "R52") (unit 1) (value "10k") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/72efeed4-8dcc-4ff0-b02a-68a074fb493e"
+      (reference "R53") (unit 1) (value "470") (footprint "")
+    )
+    (path "/9d24d119-5b7b-4dd6-a77e-8432ed719570/a993f95b-dd4e-4155-b53a-81a64aac3772"
+      (reference "R54") (unit 1) (value "10k") (footprint "")
     )
     (path "/35b5af6e-ebf7-4f34-90e4-08d42faf50bf"
       (reference "SW1") (unit 1) (value "MX_SW_HS") (footprint "marbastlib-mx:SW_MX_HS_1u")
