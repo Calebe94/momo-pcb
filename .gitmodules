@@ -3,5 +3,5 @@
 	url = https://github.com/Kriechi/kicad-library-WeAct-RP2040-Pico
 [submodule "marbastlib"]
 	path = marbastlib
-	url = https://github.com/ebastler/marbastlib
-	branch = v6-tested
+	url = https://github.com/Calebe94/marbastlib
+	branch = ws2812_updated
