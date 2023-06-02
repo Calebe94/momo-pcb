@@ -1,0 +1,7 @@
+[submodule "kicad-library-WeAct-RP2040-Pico"]
+	path = kicad-library-WeAct-RP2040-Pico
+	url = https://github.com/Kriechi/kicad-library-WeAct-RP2040-Pico
+[submodule "marbastlib"]
+	path = marbastlib
+	url = https://github.com/Calebe94/marbastlib
+	branch = ws2812_updated
